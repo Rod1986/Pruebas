@@ -1,0 +1,26 @@
+body{
+	background-color: lightblue;
+}
+nav{
+	position:fixed;
+	top:-5%;
+	right:-3%;
+	transition:10s;
+}
+nav:hover{
+	transform: rotate(-1080deg);
+	animation-duration: normal none running;
+}
+ul{
+	list-style: none;
+}
+.mrwuote{
+	margin-top: -75%;
+	margin-left: -40%;
+	transition: 2s;
+}
+
+.mrwuote:hover{
+	margin-left:-2%;
+}
+
